@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - Edge Trigger
+  - Shadow
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Shadows
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Invisible
+    uniqueID: 407865767
+    locked: 0
+  - name: Ground
+    uniqueID: 160768035
+    locked: 0
+  - name: Enemy
+    uniqueID: 3956879813
+    locked: 0
+  - name: Player
+    uniqueID: 1948094121
+    locked: 0
+  - name: Shadows
+    uniqueID: 845053929
+    locked: 0
+  - name: Foilage
+    uniqueID: 3712978307
+    locked: 0
+  - name: Bushes
+    uniqueID: 3040387779
+    locked: 0
+  - name: Obstructions
+    uniqueID: 393751545
+    locked: 0
+  - name: Text
+    uniqueID: 3025255411
+    locked: 0
